@@ -1,0 +1,15 @@
+[15/Feb/2023:15:27:16] (I): WordPress Instance Info:
+[15/Feb/2023:15:27:16] (I): Home URL : http://localhost/PORTFOLIO/wp-portfolio
+[15/Feb/2023:15:27:16] (I): Site URL : http://localhost/PORTFOLIO/wp-portfolio
+[15/Feb/2023:15:27:16] (I): WordPress Version : 6.1.1
+[15/Feb/2023:15:27:16] (I): Onboarding Version : 1.1.33
+[15/Feb/2023:15:27:16] (I): Multisite : No
+[15/Feb/2023:15:27:16] (I): Server Info : Apache/2.4.51 (Win64) PHP/7.4.26
+[15/Feb/2023:15:27:16] (I): PHP Version : 7.4.26
+[15/Feb/2023:15:27:16] (I): HTTPS : No
+[15/Feb/2023:15:27:16] (I): PHP Max Execution Time : 120
+[15/Feb/2023:15:27:16] (I): PHP Max Input Vars : 2500
+[15/Feb/2023:15:27:16] (I): Max Upload Size : 2097152
+[15/Feb/2023:15:27:16] (I): Plugins:
+[15/Feb/2023:15:27:16] (I): [PLUGIN] Templates Patterns Collection : v1.1.33 (ThemeIsle)
+[15/Feb/2023:15:27:16] (I): [PLUGIN] Colibri Page Builder : v1.0.223 (ExtendThemes)
